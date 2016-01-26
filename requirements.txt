@@ -1,0 +1,21 @@
+appnope==0.1.0
+decorator==4.0.6
+gnureadline==6.3.3
+ipython==4.0.3
+ipython-genutils==0.1.0
+## !! Could not determine repository location
+ipython-sparkline==0.0.1
+Jinja2==2.8
+MarkupSafe==0.23
+path.py==8.1.2
+pexpect==4.0.1
+pickleshare==0.6
+pluggy==0.3.1
+ptyprocess==0.5
+py==1.4.31
+pytest==2.8.7
+simplegeneric==0.8.1
+tox==2.3.1
+traitlets==4.1.0
+virtualenv==14.0.1
+wheel==0.24.0
